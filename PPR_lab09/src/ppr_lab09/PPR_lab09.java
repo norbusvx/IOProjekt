@@ -14,6 +14,7 @@ public class PPR_lab09 {
         System.out.println("123");
         System.out.println("jakas zmiana");
         System.out.println("2");
+        System.out.println("3");
 
         Node nodeA = new Node("A");
         Node nodeB = new Node("B");
