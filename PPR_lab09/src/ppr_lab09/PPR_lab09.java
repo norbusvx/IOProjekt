@@ -29,6 +29,8 @@ public class PPR_lab09 {
         nodeF.addDestination(nodeE, randomWeights(rand));
         nodeG.addDestination(nodeE, randomWeights(rand));
 
+        //test ugabuga
+
         Graph graph = new Graph();
         graph.addNode(nodeA);
         graph.addNode(nodeB);
