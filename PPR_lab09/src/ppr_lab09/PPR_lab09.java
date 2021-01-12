@@ -12,7 +12,7 @@ public class PPR_lab09 {
         Random rand = new Random();
     
         System.out.println("123");
-        
+        System.out.println("jakas zmiana");
 
         Node nodeA = new Node("A");
         Node nodeB = new Node("B");

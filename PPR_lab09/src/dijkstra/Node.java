@@ -17,7 +17,7 @@ public class Node {
 
     private Map<Node, Integer> adjacentNodes = new HashMap<>();
 
-
+//zmianaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
     public Node(String name) {
         this.name = name;
