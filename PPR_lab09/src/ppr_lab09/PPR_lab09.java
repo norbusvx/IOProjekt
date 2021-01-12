@@ -10,6 +10,9 @@ public class PPR_lab09 {
 
     public static void main(String[] args) {
         Random rand = new Random();
+    
+        System.out.println("123");
+        
 
         Node nodeA = new Node("A");
         Node nodeB = new Node("B");
